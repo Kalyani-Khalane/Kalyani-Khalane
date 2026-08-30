@@ -96,7 +96,7 @@ A full-stack platform that automatically ingests daily news from live sources, c
 
 **Action** — Built a 7-table relational schema with SQLAlchemy/SQLite to structure ingested content; engineered an asynchronous Python pipeline to pull live articles from NewsAPI and RSS feeds; applied TF-IDF vectorization and scikit-learn classification models to automatically tag articles by exam relevance; designed a Next.js/TypeScript reading interface with a custom PDF note-export feature using jsPDF.
 
-**Result** — A working end-to-end system that replaces a manual, repetitive research task with an automated pipeline i.e built as my capstone project to demonstrate full-stack architecture combined with applied NLP, not just frontend or backend in isolation.
+**Result** — A working end-to-end system that replaces a manual, repetitive research task with an automated pipeline - built as my capstone project to demonstrate full-stack architecture combined with applied NLP, not just frontend or backend in isolation.
 
 ### Key Features
 
